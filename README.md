@@ -1,3 +1,9 @@
+### GazeVolo detects people from images, labels their gaze point within a selected area.
+
+Models are from
+https://github.com/WildChlamydia/MiVOLO
+https://github.com/fkryan/gazelle
+
 ### 1. Git clone
 
 ### 2. pip install -r requirements.txt
